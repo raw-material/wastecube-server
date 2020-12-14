@@ -1,0 +1,34 @@
+{
+    "ads": [
+        {
+            "title": "IperTosano",
+            "url": "/static/ads/bottles-trees.jpg",
+            "description": "20% di sconto sulla spesa",
+            "isPromo": true
+        },
+        {
+            "title": "Il Castello",
+            "url": "/static/ads/bottles-and-cans.jpg",
+            "description": "",
+            "isPromo": false
+        },
+        {
+            "title": "LIDL",
+            "url": "/static/ads/bottles-and-cans.jpg",
+            "description": "Cioccolata in omaggio con 20€ di spesa",
+            "isPromo": true
+        }
+    ],
+    "types": {
+        "left": {
+            "title": "PET",
+            "description": "<p>Il PET è la plastica più comune ed è comunemenete quello delle bottiglie d'acqua.</p><p>Sono esempi:</p><ul><li>Bottiglie d'acqua</li><li>Bottiglie per bibite e succhi</li><li>Bottiglie bianche</li><li>Bottiglie colorate</li>",
+            "image": "/static/types/pet.jpg"
+        },
+        "right": {
+            "title": "HDPE",
+            "description": "<p>L'HDPE è la plastica più utilizzata, dai contenitori per alimneti ai flaconi domestici.</p><p>Sono esempi:</p><ul><li>Flaconi dei detersivi</li><li>Flaconi detergenti</li><li>Taniche bianche</li><li>Taniche colorate</li>",
+            "image": "/static/types/hdpe.jpg"
+        }
+    }
+}

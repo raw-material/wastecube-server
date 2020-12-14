@@ -1,0 +1,15 @@
+{
+  "name": "wastecube-server",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-pino-logger": "^5.0.0",
+    "onoff": "^6.0.1",
+    "pino": "^6.8.0",
+    "pino-pretty": "^4.3.0",
+    "ws": "^7.4.1"
+  }
+}
