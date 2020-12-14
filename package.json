@@ -1,8 +1,13 @@
 {
   "name": "wastecube-server",
+  "author": "RawMaterial",
   "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "start:prod": "node index.js > logs/wastecube.log"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
